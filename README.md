@@ -38,4 +38,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0576-out-of-boundary-paths](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0576-out-of-boundary-paths) |
 <!---LeetCode Topics End-->
