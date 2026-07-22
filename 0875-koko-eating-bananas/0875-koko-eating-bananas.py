@@ -3,11 +3,13 @@ class Solution:
         left, right = 1, max(piles)
         while left <= right:
             mid = (left + right) // 2
-            eating_h = 0
+            needed_hours = 0
             for pile in piles:
-                eating_h += -(-pile // mid)
+                needed_hours += -(-pile // mid)
+                if needed_hours > h:
+                    break
             
-            if eating_h <= h:
+            if needed_hours <= h:
                 right = mid - 1
             else:
                 left = mid + 1
