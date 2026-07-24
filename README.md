@@ -39,4 +39,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0576-out-of-boundary-paths](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0576-out-of-boundary-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
