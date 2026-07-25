@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0015-3sum) |
 | [0416-partition-equal-subset-sum](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0875-koko-eating-bananas) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
