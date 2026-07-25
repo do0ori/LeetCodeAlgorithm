@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0576-out-of-boundary-paths](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0576-out-of-boundary-paths) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -63,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
