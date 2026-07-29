@@ -48,15 +48,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0743-network-delay-time) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0743-network-delay-time) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
@@ -74,4 +77,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/do0ori/LeetCodeAlgorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
